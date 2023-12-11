@@ -24,7 +24,7 @@ header{
 
 .nav{
     display: flex;
-    margin-left: 1228px;
+    margin-left: 1180px;
 }
 
 a{
@@ -57,7 +57,7 @@ a:hover {
     margin-top: 41px;
     
     flex-shrink: 0;
-    font-family: Open Sans;
+    font-family: 'Open Sans', sans-serif;
     font-size: 20px;
     font-style: italic;
     font-weight: 600;
@@ -68,7 +68,7 @@ a:hover {
     margin-top: 41px;
     margin-left: 11px;
     flex-shrink: 0;
-    font-family: Open Sans;
+    font-family: 'Open Sans', sans-serif;
     font-size: 20px;
     font-style: italic;
     font-weight: 600;
@@ -79,7 +79,7 @@ a:hover {
     margin-top: 41px;
     margin-left: 11px;
     flex-shrink: 0;
-    font-family: Open Sans;
+    font-family: 'Open Sans', sans-serif;
     font-size: 20px;
     font-style: italic;
     font-weight: 600;
@@ -90,7 +90,7 @@ a:hover {
     margin-top: 41px;
     margin-left: 11px;
     flex-shrink: 0;
-    font-family: Open Sans;
+    font-family: 'Open Sans', sans-serif;
     font-size: 20px;
     font-style: italic;
     font-weight: 600;
@@ -101,7 +101,7 @@ a:hover {
     margin-top: 41px;
     margin-left: 11px;
     flex-shrink: 0;
-    font-family: Open Sans;
+    font-family: 'Open Sans', sans-serif;
     font-size: 20px;
     font-style: italic;
     font-weight: 600;
@@ -140,7 +140,7 @@ a:hover {
 .text_1{
     width: 327px;
     color: #FFF;
-    font-family: Open Sans;
+    font-family: 'Open Sans', sans-serif;
     font-size: 20px;
     font-style: normal;
     font-weight: 400;
@@ -152,7 +152,7 @@ a:hover {
     height: 47px;
     flex-shrink: 0;
     color: #8AFF6C;
-    font-family: Open Sans;
+    font-family: 'Open Sans', sans-serif;
     font-size: 40px;
     font-style: normal;
     font-weight: 400;
@@ -162,7 +162,7 @@ a:hover {
 .text_3{
     margin-top: -30px;
     color: #8AFF6C;
-    font-family: Open Sans;
+    font-family: 'Open Sans', sans-serif;
     font-size: 40px;
     font-style: normal;
     font-weight: 400;
@@ -173,7 +173,7 @@ a:hover {
     margin-top: -20px;
     width: 535px;
     color: #FFF;
-    font-family: Open Sans;
+    font-family: 'Open Sans', sans-serif;
     font-size: 20px;
     font-style: normal;
     font-weight: 400;
@@ -193,7 +193,7 @@ a:hover {
     height: 27px;
     flex-shrink: 0;
     color: #000;
-    font-family: Montserrat;
+    font-family: 'Montserrat', sans-serif;
     font-size: 20px;
     font-style: normal;
     font-weight: 400;
@@ -218,7 +218,7 @@ a:hover {
     height: 47px;
     flex-shrink: 0;
     color: #8AFF6C;
-    font-family: Open Sans;
+    font-family: 'Open Sans', sans-serif;
     font-size: 40px;
     font-style: normal;
     font-weight: 400;
@@ -228,7 +228,7 @@ a:hover {
 .me_1{
     width: 1107px;
     color: #FFF;
-    font-family: Montserrat;
+    font-family: 'Montserrat', sans-serif;
     font-size: 32px;
     font-style: normal;
     font-weight: 400;
@@ -241,7 +241,7 @@ a:hover {
     height: 47px;
     flex-shrink: 0;
     color: #FFF;
-    font-family: Open Sans;
+    font-family: 'Open Sans', sans-serif;
     font-size: 40px;
     font-style: normal;
     font-weight: 700;
@@ -255,7 +255,7 @@ a:hover {
     height: 145px;
     flex-shrink: 0;
     color: #000;
-    font-family: Open Sans;
+    font-family: 'Open Sans', sans-serif;
     font-size: 128px;
     font-style: normal;
     font-weight: 700;
@@ -273,7 +273,7 @@ a:hover {
     height: 137px;
     flex-shrink: 0;
     color: #000;
-    font-family: Open Sans;
+    font-family: 'Open Sans', sans-serif;
     font-size: 128px;
     font-style: normal;
     font-weight: 700;
@@ -291,7 +291,7 @@ a:hover {
     height: 137px;
     flex-shrink: 0;
     color: #000;
-    font-family: Open Sans;
+    font-family: 'Open Sans', sans-serif;
     font-size: 128px;
     font-style: normal;
     font-weight: 700;
@@ -305,7 +305,7 @@ a:hover {
     height: 47px;
     flex-shrink: 0;
     color: #8AFF6C;
-    font-family: Open Sans;
+    font-family: 'Open Sans', sans-serif;
     font-size: 40px;
     font-style: normal;
     font-weight: 400;
@@ -318,7 +318,7 @@ a:hover {
     height: 75px;
     flex-shrink: 0;
     color: #FFF;
-    font-family: Montserrat;
+    font-family: 'Montserrat', sans-serif;
     font-size: 32px;
     font-style: normal;
     font-weight: 400;
@@ -332,7 +332,7 @@ a:hover {
     height: 47px;
     flex-shrink: 0;
     color: #8AFF6C;
-    font-family: Open Sans;
+    font-family: 'Open Sans', sans-serif;
     font-size: 40px;
     font-style: normal;
     font-weight: 400;
@@ -345,7 +345,7 @@ a:hover {
     height: 75px;
     flex-shrink: 0;
     color: #FFF;
-    font-family: Montserrat;
+    font-family: 'Montserrat', sans-serif;
     font-size: 32px;
     font-style: normal;
     font-weight: 400;
@@ -359,7 +359,7 @@ a:hover {
     height: 47px;
     flex-shrink: 0;
     color: #8AFF6C;
-    font-family: Open Sans;
+    font-family: 'Open Sans', sans-serif;
     font-size: 40px;
     font-style: normal;
     font-weight: 400;
@@ -372,7 +372,7 @@ a:hover {
     height: 75px;
     flex-shrink: 0;
     color: #FFF;
-    font-family: Montserrat;
+    font-family: 'Montserrat', sans-serif;
     font-size: 32px;
     font-style: normal;
     font-weight: 400;
@@ -389,7 +389,7 @@ a:hover {
     height: 47px;
     flex-shrink: 0;
     color: #8AFF6C;
-    font-family: Open Sans;
+    font-family: 'Open Sans', sans-serif;
     font-size: 40px;
     font-style: normal;
     font-weight: 400;
@@ -415,7 +415,7 @@ a:hover {
 .text_13{
     margin-left: 40px;
     color: #FFF;
-    font-family: Open Sans;
+    font-family: 'Open Sans', sans-serif;
     font-size: 20px;
     font-style: normal;
     font-weight: 400;
@@ -425,7 +425,7 @@ a:hover {
 .text_14{
     margin-left: 140px;
     color: #FFF;
-    font-family: Open Sans;
+    font-family: 'Open Sans', sans-serif;
     font-size: 20px;
     font-style: normal;
     font-weight: 400;
@@ -435,7 +435,7 @@ a:hover {
 .text_15{
     margin-left: 130px;
     color: #FFF;
-    font-family: Open Sans;
+    font-family: 'Open Sans', sans-serif;
     font-size: 20px;
     font-style: normal;
     font-weight: 400;
@@ -449,7 +449,7 @@ a:hover {
 .text_16{
     margin-left: 40px;
     color: #FFF;
-    font-family: Open Sans;
+    font-family: 'Open Sans', sans-serif;
     font-size: 20px;
     font-style: normal;
     font-weight: 400;
@@ -459,7 +459,7 @@ a:hover {
 .text_17{
     margin-left: 150px;
     color: #FFF;
-    font-family: Open Sans;
+    font-family: 'Open Sans', sans-serif;
     font-size: 20px;
     font-style: normal;
     font-weight: 400;
@@ -469,7 +469,7 @@ a:hover {
 .text_18{
     margin-left: 150px;
     color: #FFF;
-    font-family: Open Sans;
+    font-family: 'Open Sans', sans-serif;
     font-size: 20px;
     font-style: normal;
     font-weight: 400;
@@ -494,7 +494,7 @@ a:hover {
     height: 47px;
     flex-shrink: 0;
     color: #8AFF6C;
-    font-family: Open Sans;
+    font-family: 'Open Sans', sans-serif;
     font-size: 40px;
     font-style: normal;
     font-weight: 400;
@@ -585,7 +585,7 @@ a:hover {
     margin-left: 150px;
     margin-top: -70px;
     color: #000;
-    font-family: Open Sans;
+    font-family: 'Open Sans', sans-serif;
     font-size: 35px;
     font-style: normal;
     font-weight: 400;
@@ -596,7 +596,7 @@ a:hover {
     margin-left: 150px;
     margin-top: -70px;
     color: #000;
-    font-family: Open Sans;
+    font-family: 'Open Sans', sans-serif;
     font-size: 35px;
     font-style: normal;
     font-weight: 400;
@@ -613,7 +613,7 @@ a:hover {
     height: 47px;
     flex-shrink: 0;
     color: #8AFF6C;
-    font-family: Open Sans;
+    font-family: 'Open Sans', sans-serif;
     font-size: 40px;
     font-style: normal;
     font-weight: 400;
@@ -625,7 +625,7 @@ a:hover {
     height: 85px;
     flex-shrink: 0;
     color: #FFF;
-    font-family: Montserrat;
+    font-family: 'Montserrat', sans-serif;
     font-size: 32px;
     font-style: normal;
     font-weight: 400;
@@ -643,7 +643,7 @@ a:hover {
     height: 40px;
     flex-shrink: 0;
     color: #FFF;
-    font-family: Montserrat;
+    font-family: 'Montserrat', sans-serif;
     font-size: 32px;
     font-style: normal;
     font-weight: 400;
@@ -662,7 +662,7 @@ a:hover {
     height: 40px;
     flex-shrink: 0;
     color: #FFF;
-    font-family: Montserrat;
+    font-family: 'Montserrat', sans-serif;
     font-size: 32px;
     font-style: normal;
     font-weight: 400;
@@ -686,7 +686,7 @@ footer{
 
 .text_foot{
     color: #FFF;
-    font-family: Open Sans;
+    font-family: 'Open Sans', sans-serif;
     font-size: 20px;
     font-style: normal;
     font-weight: 400;
@@ -695,7 +695,7 @@ footer{
 
 .text_foot_1{
     color: #FFFAFA;
-    font-family: Open Sans;
+    font-family: 'Open Sans', sans-serif;
     font-size: 20px;
     font-style: normal;
     font-weight: 400;
